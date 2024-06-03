@@ -1,2 +1,2 @@
 # rasmoo-courses
- Java Specialist Taining
+ Java Specialist Training
